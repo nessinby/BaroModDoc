@@ -1,5 +1,6 @@
 # Holdable
 
+Holdable enables an item to be held and used by the character/inventory it's in. More expensive than [Pickable](Pickable.md).
 
 ## Attributes
 
