@@ -4,6 +4,7 @@
 ## Attributes
 
 This component supports the attributes defined in: [ItemComponent](ItemComponent.md)
+This component only supports being used as a child of [Wearable](Wearable.md).
 
 
 ## Example
