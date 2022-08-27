@@ -3,6 +3,10 @@
 
 ## Attributes
 
+Pickable allows an item to be picked up without being able to hold or use it, making it cheaper than [Holdable](Holdable.md). This item is not required if you're using another component which defines what slots it can go into.
+
+If you wish for it to be holdable or useable use the [Holdable](Holdable.md) component instead.
+
 This component supports the attributes defined in: [ItemComponent](ItemComponent.md)
 
 
